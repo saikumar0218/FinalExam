@@ -118,7 +118,7 @@
 <distributionManagement>
     <snapshotRepository>
         <id>snapshots</id>
-        <name>hellowworldJava-snapshots</name>
+        <name>HelloWorldJava-snapshots</name>
         <url>https:localhost:8081/artifactory/libs-snapshot-local</url>
     </snapshotRepository>
     </distributionManagement>
