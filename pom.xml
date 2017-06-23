@@ -108,10 +108,9 @@
 	</build>
 	<!-- hello-->
 <distributionManagement>
-    <repository>
-        <id>central</id>
-        <name>devops-training-releases</name>
+    <snapshotRepository>
+        <id>snapshots</id>
+        <name>devops-training-snapshots</name>
         <url>http://localhost:8081/artifactory/libs-snapshot-local</url>
-    </repository>
+    </snapshotRepository>
 </distributionManagement>
-</project>
