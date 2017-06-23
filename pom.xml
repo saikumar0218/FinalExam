@@ -111,7 +111,7 @@
     <repository>
         <id>central</id>
         <name>devops-training-releases</name>
-        <url>http://localhost:8081/artifactory/ext-release-local</url>
+        <url>http://localhost:8081/artifactory/libs-snapshot-local</url>
     </repository>
 </distributionManagement>
 </project>
