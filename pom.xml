@@ -5,7 +5,7 @@
 	<artifactId>HelloWorldJava</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>Hello World Java</name>
+	<name>HelloWorldJava</name>
 	<description>Learn Java JSP and Servlet</description>
 
 	<dependencies>
@@ -30,7 +30,7 @@
 
 	<build>
 		<sourceDirectory>src</sourceDirectory>
-		<finalName>HelloJavaWorld</finalName>
+		<finalName>HelloWorldJava</finalName>
 		<plugins>
 			<plugin>
 				<artifactId>maven-compiler-plugin</artifactId>
