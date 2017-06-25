@@ -31,7 +31,7 @@ public class HelloServlet extends HttpServlet {
 			throws ServletException, IOException {
 		String yourName = request.getParameter("yourName");
 		PrintWriter writer = response.getWriter();
-		writer.println("<h1>Helloo " + yourName + "</h1>");
+		writer.println("<h1>Helloo Bangalore" + yourName + "</h1>");
 		writer.println("<h1>DevOps " + yourName + "</h1>");
 		writer.close();
 	}
