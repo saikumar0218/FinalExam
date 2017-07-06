@@ -55,7 +55,7 @@
 				</configuration>
 			</plugin>
 
-<!-- Cobertura plgin -->
+<!-- Cobertura plugin -->
 			<plugin>
 				<groupId>org.codehaus.mojo</groupId>
 				<artifactId>cobertura-maven-plugin</artifactId>
